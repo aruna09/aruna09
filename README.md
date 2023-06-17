@@ -1,8 +1,6 @@
 
 ### Hi there 👋
 
-![image](https://user-images.githubusercontent.com/25157152/147076911-5a7c532e-a136-49de-8dd0-ef0fb2422c54.png)
-
 - 🔭 I’m working on some cool Kaggle problems!
 - 🌱 On the side I am also learning how to navigate in the "data" world.
 - 👯 I’m looking to collaborate on any ML/AL related Hackathons/Ideathons/Competitions.
